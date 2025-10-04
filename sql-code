@@ -1,0 +1,5 @@
+SELECT * 
+FROM table
+WHERE age IS NOT NULL
+ORDER BY age
+LIMIT 10
